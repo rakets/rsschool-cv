@@ -45,7 +45,7 @@ function feast(beast, dish) {
 
 + #### University College of Enterprise and Administration in Lublin, Poland
   *Oct 2022 / now*
-  Computer Science*
+  Computer Science
 
 + #### [Udemy](https://www.udemy.com/course/javascript_full/)
 
